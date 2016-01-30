@@ -112,7 +112,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     creating: "Creando cuenta..."
     sign_up: "Registrarse"
     log_in: "Iniciar sesión con contraseña"
-    required: "Tienes que estar reginstrado antes de poder seguir por aquí."
+    required: "Tienes que estar registrado antes de poder seguir por aquí."
     login_switch: "¿Ya tienes una cuenta?"
 #    school_name: "School Name and City"
 #    optional: "optional"
@@ -269,7 +269,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     tome_cast_button_running: "Corriendo"
     tome_cast_button_ran: "Corrido"
     tome_submit_button: "Mandar"
-    tome_reload_method: "Recargcar código original para este método" # Title text for individual method reload button.
+    tome_reload_method: "Recargar código original para este método" # Title text for individual method reload button.
     tome_select_method: "Seleccionar método"
     tome_see_all_methods: "Métodos que pueden ser editados" # Title text for method list selector (shown when there are multiple programmable methods).
     tome_select_a_thang: "Selecciona a alguien para "
